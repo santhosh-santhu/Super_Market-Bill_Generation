@@ -23,7 +23,7 @@ ilist=[]#itemlist
 qlist=[]#quantity list
 plist=[]#pricelist
 
-#rates for iteams
+#rates for items
 items={'Rice':55,'Sugar':30,'Salt':10,'oil':80,'panner':210,'maggi':50,'Boost':100,'colgate':25}
 
 option = int(input("For list of items press 1: "))
